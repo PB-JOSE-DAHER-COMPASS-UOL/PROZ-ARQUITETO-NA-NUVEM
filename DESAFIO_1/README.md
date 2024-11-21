@@ -29,6 +29,8 @@ Por fim, envie o arquivo do Cisco gerado, junto com um print da tela com a topol
 Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilhe o link desse projeto no campo ao lado para que outros desenvolvedores possam analisá-lo.
 Recursos
 
+![Topologia de Rede](./EVIDENCIAS/TOPOLOGIA_REDE_ESTRELA_ARQUITETO.jpg)
+
 
 ![Topologia de Rede](./EVIDENCIAS/TOPOLOGIA_RED_ARQUITETO.jpg)
 
