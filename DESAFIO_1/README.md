@@ -32,6 +32,4 @@ Recursos
 ![Topologia de Rede](./EVIDENCIAS/TOPOLOGIA_REDE_ESTRELA_ARQUITETO.jpg)
 
 
-![Topologia de Rede](./EVIDENCIAS/TOPOLOGIA_RED_ARQUITETO.jpg)
-
 
