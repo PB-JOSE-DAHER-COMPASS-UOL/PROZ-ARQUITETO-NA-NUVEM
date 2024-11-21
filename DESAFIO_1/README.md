@@ -30,3 +30,6 @@ Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilh
 Recursos
 
 
+![Topologia de Rede](./EVIDENCIAS/TOPOLOGIA_RED_ARQUITETO.jpg)
+
+
